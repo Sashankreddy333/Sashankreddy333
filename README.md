@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sashankreddy333
+- 👋 Hi, I’m Sashank Reddy
 - 👀 I’m interested in AI,Hacking
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on
